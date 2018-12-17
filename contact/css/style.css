@@ -1,0 +1,66 @@
+body {
+  background-color: #121212;
+  color: #FF8200;
+  font-family: "Arial", sans-serif;
+  margin: auto
+}
+
+.logo {
+  margin-left: 0px;
+  margin-right: 0px;
+  height: 38px;
+}
+
+.image {
+  height: 190px;
+  width: 104%;
+  margin-bottom: -3px;
+  margin-top: -60px
+}
+
+.logo-image {
+  margin-top: -6px ;
+  height: 33px;
+  width: 55px;
+}
+
+.top {
+  width: 100%;
+  margin: auto;
+}
+
+.top-bar a{
+  float: left;
+  width: 14.2159%;
+  background: #353535;
+  color: #FF8200;
+  display: block;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  box-sizing: border-box;
+  margin-right: 1px;
+}
+
+.top-bar {
+	position: absolute;
+	width: 100%
+	}
+
+#bar:hover:not(.active) {
+    background-color: #121212;
+    transition: 0.1s
+}
+
+#contact-form {
+    color: white;
+    text-align: right;
+    margin-right: 43%
+}
+
+#contactpage1{
+  margin-top: 55px
+}
+#button {
+  color: black
+}
